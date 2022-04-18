@@ -1,1 +1,1 @@
-# typeWritterEffect---easy-
+# typeWritterEffect-easy
