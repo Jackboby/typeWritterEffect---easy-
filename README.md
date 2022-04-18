@@ -26,5 +26,5 @@ document.getElementById("main").innerHTML = (a + b + c);
 
 and every second `+` 2 to the last second.
 
-# here is a working version of the typewritter effect: https://typewriter-effect.jacktoons.repl.co.
+## here is a working version of the typewritter effect: https://typewriter-effect.jacktoons.repl.co.
 
