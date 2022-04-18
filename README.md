@@ -1,7 +1,7 @@
 # typeWritterEffect-easy
 this is a `very` easy way of making a typewritter effect!
 
-## how does it work?
+## how does it work`?`
 well, with the power of `setTimeout((){`codehere`},`1000`);` you can seprate each text by a `variable`
 
 - `var` a
