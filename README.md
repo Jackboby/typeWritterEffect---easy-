@@ -28,3 +28,4 @@ and just `+` 1 to the last second.
 
 ## here is a working version of the typewritter effect: https://typewriter-effect.jacktoons.repl.co.
 
+
