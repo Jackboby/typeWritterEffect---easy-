@@ -1,0 +1,33 @@
+body {
+  font-family: arial;
+}
+
+#a {
+  color: white;
+}
+
+#b {
+  color: white;
+}
+
+#c {
+  color: white;
+}
+
+#main {
+  font-family: arial;
+  font-size: 100px;
+  position: relative;
+  top: 100px;
+  transition: font-size 0.5s;
+}
+
+#main:hover {
+  font-size: 110px;
+}
+
+#text {
+  position: relative;
+  top: 110px;
+}
+
