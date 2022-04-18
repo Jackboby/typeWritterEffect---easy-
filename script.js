@@ -8,7 +8,7 @@ document.getElementById("main").innerHTML = (a);
 }, 100);
 setTimeout(() => {
 document.getElementById("main").innerHTML = (a + b);
-}, 300);
+}, 200);
 setTimeout(() => {
 document.getElementById("main").innerHTML = (a + b + c);
-}, 500);
+}, 300);
